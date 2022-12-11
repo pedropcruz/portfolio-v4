@@ -1,0 +1,20 @@
+.anchor {
+	@apply mt-8 
+	inline-block 
+	whitespace-nowrap 
+	rounded-lg 
+	border-4 
+	border-black 
+	p-2 
+	px-4 
+	text-2xl 
+	shadow-none 
+	transition 
+	ease-in-out 
+	hover:cursor-pointer 
+	hover:bg-yellow 
+	hover:shadow-brand 
+	dark:border-whitesmoke 
+	dark:hover:text-black 
+	dark:hover:shadow-brand-invert;
+}
